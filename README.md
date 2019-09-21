@@ -1,4 +1,4 @@
-# Project Milestone
+# Quandl Stock API
 
 This project is completed as part of a 12-day preparation course for the data incubator Fall'19 program.
 
